@@ -1,0 +1,8 @@
+data/raw/
+*.tif
+*.pth
+*.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

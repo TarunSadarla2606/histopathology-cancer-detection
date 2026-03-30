@@ -1,0 +1,5 @@
+subset,subset_pct,train_size,val_size,test_size,roc_auc,pr_auc,sensitivity,specificity,precision,f1_score,accuracy,tn,fp,fn,tp,notes
+1,20,37399,3300,3300,0.8108,0.6941,0.758,0.864,0.582,0.658,0.843,2281,359,160,500,Full training run
+2,40,74798,6600,6600,0.7888,0.7088,0.647,0.931,0.700,0.672,0.862,4914,366,466,854,Full training run
+3,60,112197,9900,9900,,,,0.929,0.693,0.669,0.863,7357,563,608,1372,Loaded from saved weights (Adam_weights_ss3.pth)
+4,100,186796,16600,16600,0.8228,0.7029,0.797,0.849,0.568,0.662,0.831,11201,1998,670,2629,Full training run
